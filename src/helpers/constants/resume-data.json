@@ -1,0 +1,204 @@
+{
+  "basics": {
+    "name": "齐文崧",
+    "label": "云计算架构工程师",
+    "image": "https://avatars.githubusercontent.com/u/95469977?v=4",
+    "email": "me@loser.dev",
+    "phone": "+86 132*****795",
+    "url": "loser.dev",
+    "summary": "我是一位专业的运维工程师，擅长系统的稳定性和可靠性。我的工作重点是确保网络应用程序始终以最优状态运行。通过运用最新的运维技术，我能够有效监控服务器和网络设备，及时发现并解决潜在问题，以保障系统的高可用性。",
+    "location": {
+      "address": "China",
+      "postalCode": "",
+      "city": "ChongQing",
+      "countryCode": "",
+      "region": ""
+    },
+    "relExp": "2 years",
+    "totalExp": "3 Years",
+    "objective": "我迫切地希望通过参加外部培训来拓展我的运维技能，以提升关键绩效指标。我希望能够利用我的组织能力，为ABC公司引入一些节省时间的方案，从而使所有高管受益。",
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "sadanandpai",
+        "url": "https://www.linkedin.com/in/sadanandpai/"
+      },
+      {
+        "network": "twitter",
+        "username": "sadanandpai",
+        "url": "https://www.twitter.com/sadanandpai/"
+      },
+      {
+        "network": "github",
+        "username": "sadanandpai",
+        "url": "https://github.com/sadanandpai/"
+      },
+      {
+        "network": "hackerrank",
+        "username": "paicube",
+        "url": "https://www.hackerrank.com/paicube/"
+      },
+      {
+        "network": "hackerearth",
+        "username": "sadanandpai",
+        "url": "https://www.hackerearth.com/sadanandpai/"
+      },
+      {
+        "network": "codechef",
+        "username": "sadanandpai",
+        "url": "https://www.codechef.com/sadanandpai/"
+      },
+      {
+        "network": "leetcode",
+        "username": "paicube",
+        "url": "https://leetcode.com/paicube/"
+      }
+    ]
+  },
+
+  "skills": {
+    "languages": [
+      { "name": "JavaScript", "level": 90 },
+      { "name": "HTML5", "level": 80 },
+      { "name": "CSS", "level": 80 }
+    ],
+    "frameworks": [
+      { "name": "React", "level": 70 },
+      { "name": "Angular", "level": 70 }
+    ],
+    "technologies": [
+      { "name": "Algorithms", "level": 3 },
+      { "name": "Progressive Web Apps", "level": 3 },
+      { "name": "SQL", "level": 3 },
+      { "name": "Data Structures", "level": 3 }
+    ],
+    "libraries": [
+      { "name": "jQuery", "level": 3 },
+      { "name": "Redux", "level": 3 }
+    ],
+    "databases": [{ "name": "Firebase", "level": 3 }],
+    "practices": [
+      { "name": "Component based architecture", "level": 3 },
+      { "name": "Agile methodology", "level": 3 },
+      { "name": "Design Patterns", "level": 3 },
+      { "name": "Test Driven Development", "level": 3 },
+      { "name": "MVC", "level": 3 }
+    ],
+    "tools": [
+      { "name": "Git", "level": 3 },
+      { "name": "VS Code", "level": 3 },
+      { "name": "Jira", "level": 3 },
+      { "name": "Webpack", "level": 3 },
+      { "name": "Eclipse", "level": 3 },
+      { "name": "Bitbucket", "level": 3 }
+    ]
+  },
+
+  "work": [
+    {
+      "id": "1",
+      "name": "重庆移通学院",
+      "position": "软件开发工程师",
+      "url": "",
+      "startDate": "Apr 2022",
+      "isWorkingHere": true,
+      "endDate": null,
+      "highlights": [
+        "* 曾在一个由5名开发人员组成的团队中工作，共同开发了一款面向客户的网络应用程序。在项目完成后，我负责确保该应用程序在生产环境中的稳定运行和高效维护。"
+      ],
+      "summary": "<ul><li>我将前端开发经验与运维的职责相结合，通过定义项目的结构和组件，并保障它们在生产环境中的可维护性和高度可重用性。这种综合的方法有助于确保项目的稳定运行，并为团队提供一个健康、高效的开发和维护环境。</li><li>保持较高的代码质量，审查其他开发人员的代码并提出改进建议</li><li> 与设计师互动，提出修改建议，确保设计师对设计的看法转化为实际功能</li><li> 云服务维护</strong>, 腾讯云</li></ul>",
+      "years": ""
+    },
+    {
+      "id": "2",
+      "name": "晋中科技学院",
+      "position": "软件工程师",
+      "url": "",
+      "startDate": "Jun 2015",
+      "isWorkingHere": false,
+      "endDate": "Dec 2017",
+      "highlights": [
+        "* 曾在一个由5名开发人员组成的团队中工作，共同开发了一款面向客户的网络应用程序。在项目完成后，我负责确保该应用程序在生产环境中的稳定运行和高效维护。"
+      ],
+      "summary": "<ul><li>我将前端开发经验与运维的职责相结合，通过定义项目的结构和组件，并保障它们在生产环境中的可维护性和高度可重用性。这种综合的方法有助于确保项目的稳定运行，并为团队提供一个健康、高效的开发和维护环境。</li><li>保持较高的代码质量，审查其他开发人员的代码并提出改进建议</li><li> 与设计师互动，提出修改建议，确保设计师对设计的看法转化为实际功能</li><li> 云服务维护</strong>, 腾讯云</li></ul>",
+      "years": ""
+    },
+    {
+      "id": "3",
+      "name": "泰山科技学院",
+      "position": "架构工程师",
+      "url": "",
+      "startDate": "Aug 2011",
+      "isWorkingHere": false,
+      "endDate": "May 2015",
+      "highlights": [
+        "* 曾在一个由5名开发人员组成的团队中工作，共同开发了一款面向客户的网络应用程序。在项目完成后，我负责确保该应用程序在生产环境中的稳定运行和高效维护。"
+      ],
+      "summary": "<ul><li>我将前端开发经验与运维的职责相结合，通过定义项目的结构和组件，并保障它们在生产环境中的可维护性和高度可重用性。这种综合的方法有助于确保项目的稳定运行，并为团队提供一个健康、高效的开发和维护环境。</li><li>保持较高的代码质量，审查其他开发人员的代码并提出改进建议</li><li> 与设计师互动，提出修改建议，确保设计师对设计的看法转化为实际功能</li><li> 云服务维护</strong>, 腾讯云</li></ul>",
+      "years": ""
+    }
+  ],
+
+  "education": [
+    {
+      "id": "1",
+      "institution": "重庆，重庆移通学院",
+      "url": "https://www.cqyti.com/",
+      "studyType": "MS",
+      "area": "Cloud technology",
+      "startDate": "2014",
+      "isStudyingHere": false,
+      "endDate": "2016",
+      "score": "68%",
+      "courses": []
+    },
+    {
+      "id": "2",
+      "institution": "深圳职业技术大学, 专科",
+      "url": "https://www.szpt.edu.cn/",
+      "studyType": "B.Tech (VTU)",
+      "area": "计算机科学",
+      "startDate": "2023",
+      "isStudyingHere": false,
+      "endDate": "2023",
+      "score": "8.3 CGPA",
+      "courses": []
+    }
+  ],
+
+  "activities": {
+    "involvements": "<ul><li>重庆移通学院（Chongqing College of Mobile Communication）位于重庆市合川大学城，是一所经教育部批准、由重庆市教育委员会主管的全日制民办普通本科高校，为中国应用技术大学改革试点院校。</li></ul><ul><li>在JS.ORG项目中，我作为前端开发者积极参与并为项目的成功贡献了我的技能和经验。JS.ORG是一个致力于推动JavaScript技术发展的开源社区，通过提供优质的资源和工具，促进了全球JavaScript社区的繁荣。</li></ul><ul><li>在腾讯云架构优化项目中，我担任了云架构师的职务，负责优化和升级腾讯云上的关键应用架构，以提高性能、可用性和安全性。云架构规划： 制定腾讯云上的应用架构规划，确保它符合业务需求并充分利用云服务的优势。性能优化： 对现有应用进行深入分析，提出并实施性能优化策略，以确保系统在高负载情况下仍然能够高效运行。安全加固： 设计并实施强化安全性的方案，包括访问控制、加密、漏洞管理等，以确保数据和系统的安全性。</li></ul>",
+
+    "achievements": "<ul><li>截至2022年5月，学校有12个二级学院。</li><li>开设44个本科专业。</li><li>4个专科专业。</li><li>2020年11月，教育部发布公示，拟同意重庆邮电大学移通学院转设为重庆信息学院，举办者由重庆移通实业总公司变更为重庆市建鸿创嘉房地产开发有限公司。12月，经教育部批准，同意重庆邮电大学移通学院转设为重庆移通学院，同时撤销重庆邮电大学移通学院的建制。</li></ul>"
+  },
+
+  "volunteer": [
+    {
+      "id": "1",
+      "organization": "公司 XYZ",
+      "position": "组织者",
+      "url": "https://loser.dev/",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-01",
+      "summary": "组织了多次黑客大赛和月度聚会，以改善社区环境",
+      "highlights": ["被授予 '本月最佳志愿者'称号"],
+      "isVolunteeringNow": false
+    }
+  ],
+  "awards": [
+    {
+      "title": "PMP",
+      "date": "2022-11-01",
+      "awarder": "PMP",
+      "summary": "PMP（项目管理专业人士认证）： 对于从事项目管理的人员，PMP认证是国际上通用的证书",
+      "id": "1"
+    },
+    {
+      "title": "PMP",
+      "date": "2022-11-01",
+      "awarder": "PMP",
+      "summary": "PMP（项目管理专业人士认证）： 对于从事项目管理的人员，PMP认证是国际上通用的证书",
+      "id": "1"
+    }
+  ]
+}
